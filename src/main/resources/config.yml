@@ -1,0 +1,16 @@
+Smokes:
+  '中华':
+    level: '5'
+    duration: '10'
+    potioneffect: 'SPEED'
+    price: '50'
+  '雪茄':
+    level: '5'
+    duration: '10'
+    potioneffect: 'JUMP'
+    price: '100'
+  '灰狼':
+    level: '5'
+    duration: '10'
+    potioneffect: 'JUMP'
+    price: '22'
